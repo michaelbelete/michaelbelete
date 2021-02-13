@@ -1,4 +1,4 @@
-### Hi there 👋
+###Im Michael Belete 👋
 
 <!--
 **michaelbelete/michaelbelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###### Knowledgeable Web Developer brings superior front- and back-end design to promote organization-specific website presence. Thorough comprehension of complex HTML, CSS and JavaScript programming languages to generate custom web page design. Extensive collaboration with Any Client to ascertain company expectations and oversee site creation, from initial planning through rollout and support. Detail-oriented approach to maintaining website responsiveness, effectiveness and security.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=michaelbelete&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michaelbelete&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=michaelbelete)](https://github.com/anuraghazra/github-readme-stats)
