@@ -1,4 +1,4 @@
-### Im Michael Belete 👋
+### I am Michael Belete 👋
 
 <!--
 **michaelbelete/michaelbelete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
