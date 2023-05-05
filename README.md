@@ -1,7 +1,7 @@
 <h1>Hey, I am Michael👋</h1>
 
 # 💫 About Me:
-As a Frontend Developer, I specialize in technologies such as React, Svelte, Sveltekit, and Typescript. My passion is to write clean and maintainable code, as well as create modern and intuitive web applications. I am highly adaptable, able to quickly pick up any JavaScript framework, and excel in problem-solving.<br><br>My ultimate goal as a developer is to use my skills and knowledge to create innovative solutions that positively impact people's lives. My aspiration is to use programming as a tool to make the world a better place, particularly in areas such as education, healthcare, and social impact.
+As a Software Engineer, I specialize in technologies such as React, Svelte, Sveltekit, and Typescript. My passion is to write clean and maintainable code, as well as create modern and intuitive web applications. I am highly adaptable, able to quickly pick up any JavaScript framework, and excel in problem-solving.<br><br>My ultimate goal as a developer is to use my skills and knowledge to create innovative solutions that positively impact people's lives. My aspiration is to use programming as a tool to make the world a better place, particularly in areas such as education, healthcare, and social impact.
 
 
 ## 🌐 Socials:
